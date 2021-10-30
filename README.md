@@ -1,6 +1,6 @@
 # Titanic_Survival_Prediction_Algorithm
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## Steps
 
 - 1. Import the relevant libraries.
 
