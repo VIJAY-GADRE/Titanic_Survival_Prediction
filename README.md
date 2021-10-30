@@ -2,9 +2,9 @@
 
 ## Steps
 
-### 1. Import the relevant libraries.
+### 1) Import the relevant libraries.
 
-### 2. Preprocess the Raw Data:- 
+### 2) Preprocess the Raw Data:- 
 -    i. Variables of Interest
 -    ii. Checking for Missing Values
 -    iii. Dealing with Missing Values
@@ -13,7 +13,7 @@
 -    vi. Dummy Categorical [relaxing 1st variable]
 -    vii. Standardization
 
-### 3. Logistic Regression Model
+### 3) Logistic Regression Model
 -    i. Training the Dataset:-
 -    ii. Declare Targets and Inputs
 -    iii. Optimization Algorithm (Stratified K-Folds Cross-Validator)
@@ -23,7 +23,7 @@
 -    vii. Precision, Recall, F-Score, Support
 -    viii. ROC AUC Score
 
-### 4. Testing the Data:-
+### 4) Testing the Data:-
 -    i. Variables of Interest
 -    ii. Checking for Missing Values
 -    iii. Dealing with Missing Values
